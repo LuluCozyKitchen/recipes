@@ -1,2 +1,2 @@
-# recipes
-Youtube频道【禄禄圆滚滚Lulu's Cozy Kitchen】上传的文字食谱
+- 文字食谱 见 issues
+- 厨房用具和常见问题回答，见wiki
